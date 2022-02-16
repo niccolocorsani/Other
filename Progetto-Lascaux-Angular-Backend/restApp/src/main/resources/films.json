@@ -1,0 +1,79 @@
+[
+	{
+		"title":"Le ali della libertà",
+		"year": 1994,
+		"description": "Il banchiere Andy Dufresne viene arrestato per aver ucciso sua moglie e il suo amante. Dopo un duro adattamento, cerca di migliorare le condizioni del carcere e dare speranza ai suoi compagni.",
+		"rating": 9.3
+	}
+	, {
+		"title":"Il padrino",
+		"year": 1972,
+		"description": "Il patriarca invecchiando di un'organizzazione criminale trasferisce il controllo del suo impero clandestino al suo figlio riluttante.",
+		"rating": 9.2
+	}, {
+		"title":"Il padrino - Parte II",
+		"year": 1994,
+		"description": "La giovinezza e la carriera di Vito Corleone negli anni '20 viene dipinta a New York, mentre suo figlio Michael espande e stringe la presa sul sindacato criminale familiare.",
+		"rating": 9.0
+	}, {
+		"title":"Il cavaliere oscuro",
+		"year": 1994,
+		"description": "Quando una minaccia chiamata Joker emerge dal suo misterioso passato creando scompiglio e caos nella città di Gotham, il Cavaliere Oscuro deve affrontare le più grandi sfide psicologiche e fisiche per combattere l'ingiustizia.",
+		"rating": 9.0
+	}, {
+		"title":"La parola ai giurati",
+		"year": 1957,
+		"description": "Un membro della giuria tenta di impedire un errore giudiziario costringendo i suoi colleghi a riesaminare le prove.",
+		"rating": 8.9
+	}, {
+		"title":"Schindler's List",
+		"year": 1993,
+		"description": "Nella Polonia occupata dai tedeschi durante la seconda guerra mondiale, Oskar Schindler si preoccupa per i suoi operai ebrei dopo aver assistito alla loro persecuzione da parte dei tedeschi nazisti.",
+		"rating": 8.9
+	}, {
+		"title":"Il Signore degli Anelli - Il ritorno del re",
+		"year": 2003,
+		"description": "Gandalf e Aragorn guidano il Mondo degli uomini contro l'esercito di Sauron per attirare il suo sguardo lontano da Frodo e Sam mentre si avvicinano al Monte Fato con l'Unico Anello.",
+		"rating": 8.9
+	}, {
+		"title":"Pulp Fiction",
+		"year": 1994,
+		"description": "Le vicende di due sicari della mafia, un pugile, la moglie di un gangster e due banditi di diner si intrecciano in quattro storie di violenza e redenzione.",
+		"rating": 8.9
+	}, {
+		"title":"Il buono, il brutto, il cattivo",
+		"year": 1966,
+		"description": "Un truffa per cacciatori di taglie porta due uomini a formare un'alleanza contro un terzo uomo in una corsa per trovare una fortuna in oro sepolta in un cimitero lontano.",
+		"rating": 8.8
+	}, {
+		"title":"Il Signore degli Anelli - La compagnia dell'Anello",
+		"year": 2001,
+		"description": "Un mite Hobbit dalla Contea e otto compagni partono per un viaggio per distruggere il potente Unico Anello e salvare la Terra di Mezzo dall'Oscuro Signore Sauron.",
+		"rating": 8.8
+	}, {
+		"title":"Fight Club",
+		"year": 1999,
+		"description": "Un impiegato che soffre di insonnia e un fabbricante di sapone menefreghista formano un club di combattimenti clandestino che si trasforma in qualcosa molto di più grande.",
+		"rating": 8.8
+	}, {
+		"title":"Forrest Gump",
+		"year": 1994,
+		"description": "Le presidenze di Kennedy e Johnson, il Vietnam, Watergate e altre storie si sviluppano con la prospettiva di un uomo dell'Alabama con un QI di 75.",
+		"rating": 8.8
+	}, {
+		"title":"Inception",
+		"year": 2010,
+		"description": "Un ladro che ruba i segreti aziendali attraverso l'uso della tecnologia di condivisione dei sogni ha il compito inverso di inserire un'idea nella mente di un direttore generale.",
+		"rating": 8.8
+	}, {
+		"title":"Il Signore degli Anelli - Le due torri",
+		"year": 2002,
+		"description": "Mentre Frodo e Sam si avvicinano a Mordor con l'aiuto di Gollum, la fratellanza divisa prende posizione contro Saruman, il nuovo alleato di Sauron, e le sue orde di Isengard.",
+		"rating": 8.7
+	}, {
+		"title":"L'Impero colpisce ancora",
+		"year": 1980,
+		"description": "Dopo che i ribelli sono sconfitti dall'Impero sul pianeta Hoth, Luke Skywalker comincia il suo addestramento Jedi con Yoda, ed i suoi amici sono nel mirino di Darth Vader.",
+		"rating": 8.7
+	}
+]

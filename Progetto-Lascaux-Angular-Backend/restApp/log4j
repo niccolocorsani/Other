@@ -1,0 +1,4 @@
+2020-11-11 16:33:35,941 
+ com.movie.parsingData.JsonParser parse com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.movie.model.Movie` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value ('title')
+ at [Source: (File); line: 3, column: 3] (through reference chain: java.lang.Object[][0])2020-11-12 12:37:08,991 
+ com.movie.parsingData.JsonParser parse ooo

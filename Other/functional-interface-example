@@ -1,0 +1,44 @@
+/**
+ * 
+ */
+package com.corsani.moldel;
+
+/**
+ * @author nicche
+ *
+ */
+
+public class Esempio_FunctionalInterface_InnerClass {
+
+	/**
+	 * @param args
+	 */
+
+	@FunctionalInterface
+	interface InterfacciaFunzionale {
+		void fai(String s);
+	}
+
+	private static String variabile = "Variabile che deve esere statica in quanto è presente una Inner Class.\nIn Java non c’è ereditarietà multipla.Se una classe deve erditare da due classi differenti la soluzione migliore in questi casi è rappresentata dall’Inner Class.\nDa una classe eredita usando -extends- dall'alltra essendo la classe interna vedrà metodi e variabili.";
+
+	public static class ClasseInterna {
+
+		public void stampa() {
+
+			System.out.println(variabile);
+		}
+
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Esempio_FunctionalInterface_InnerClass classe = new Esempio_FunctionalInterface_InnerClass();
+		ClasseInterna classeInterna = new ClasseInterna();
+		classeInterna.stampa();
+		InterfacciaFunzionale interfacciaFunzionale = (String s) -> System.err.println(s + "Lambda Expression");
+		interfacciaFunzionale.fai("Stringa passata come argomento alla ");
+
+	}
+
+}

@@ -1,0 +1,32 @@
+<div class="">
+
+
+  <button (click)="onClickName()" class="fixed" >
+    Order by name
+  </button>
+
+  <button class="fixed" (click)="onClickRate()">
+    Order by rate
+  </button>
+
+
+  <button class="fixed"  (click)="onClickRate()" >
+    Order by year
+  </button>
+
+
+  <p *ngFor="let movie of movies" >  </p>
+
+
+
+
+</div>
+    <div class="col" style="padding-top:10px;">
+      <h1>TITLE</h1>
+
+      <p *ngFor="let movie of movies" >
+        {{movie.title}}
+      </p>
+
+
+    </div>

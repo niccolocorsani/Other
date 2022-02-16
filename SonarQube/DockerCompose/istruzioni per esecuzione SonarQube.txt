@@ -1,0 +1,22 @@
+1- Dal terminale andare alla cartella dockerCompose (con dentro il file docker-compose.yml) IMPORTANTE IL NOME!!
+1.1- Accendere il Docker Desktop
+2- Lanciare il comando "docker-compose up"
+3- Dal browser andare su localhost:9000
+4- Nel progetto che voglio analizzare aggiungere 
+
+<build>
+  <pluginManagement>
+    <plugins>
+      <plugin>
+        <groupId>org.sonarsource.scanner.maven</groupId>
+        <artifactId>sonar-maven-plugin</artifactId>
+        <version>3.7.0.1746</version>
+      </plugin>
+    </plugins>
+  </pluginManagement>
+</build>
+
+
+Al relativo pom.xml
+
+5- Creare la il relativo Maven Build, mettere a Goal "sonar:sonar" e poi eseguire il Maven Build. (Attenzione a mettere sonar:sonar e non sonar : sonar)
